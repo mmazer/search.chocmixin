@@ -1,0 +1,13 @@
+{
+  "name": "choc-search",
+  "version": "0.0.1",
+  "description": "Provides searching for text in selection using configurable search engines",
+  "main": "init.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmazer/choc-search.chocmixin.git"
+  },
+  "author": "Marc Mazer <mmazer@me.com>",
+  "license": "MIT"
+}
